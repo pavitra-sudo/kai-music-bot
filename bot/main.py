@@ -17,6 +17,7 @@ async def main():
     dp = Dispatcher()
     dp.include_router(start_router)
     dp.include_router(help_router)
+    dp.include_router(song_router)
     
 
     logging.info("🚀 Bot started")
