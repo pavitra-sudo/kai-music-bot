@@ -1,0 +1,6 @@
+aiogram
+python-dotenv
+yt-dlp
+mutagen
+Pillow
+aiofiles
